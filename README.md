@@ -1,10 +1,10 @@
-#Deskripsi Fitur
+# Deskripsi Fitur
 
-##Halaman Utama
+## Halaman Utama
 ![halamanUtama](img/halamanUtama.PNG)
 
-##Search
+## Search
 ![search](img/search.PNG)
 
-##Detail
+## Detail
 ![detail](img/detail.PNG)
